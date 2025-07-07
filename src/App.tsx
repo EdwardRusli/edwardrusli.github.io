@@ -20,6 +20,7 @@ function increaseCount(amount:number): void{
             <button onClick={()=>increaseCount(count)} className='bg-amber-300 w-32'>abc</button>
             <p className='text-white'>Count = {count}</p>
             <img className='w-full p-4' src={reactLogo} alt="reactlogo" />
+            <img className='w-full p-4' src={viteLogo} alt="reactlogo" />
           </div>
       </>    
   )
